@@ -6,7 +6,7 @@ version := "0.1.13"
 
 scalaVersion := "2.12.15"
 
-crossScalaVersions := List("2.13.8", "2.12.16")
+crossScalaVersions := List("2.13.8", "2.12.17")
 
 organization := "io.github.metarank"
 
